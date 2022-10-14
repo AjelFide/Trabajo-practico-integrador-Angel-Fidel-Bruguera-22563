@@ -1,0 +1,33 @@
+.navbar{
+    background-color:#3C3D45;
+}
+.navbar-nav{ 
+    font-size: 1rem;
+    color: white;
+}
+.nav-link{
+    color: gray;
+}
+.card-body{
+    background-color: #3C3D45;
+}
+.nav{
+    background-color: #183750;
+}
+.fw-light{
+    font-size: 0.75em;
+}
+
+.box{
+    height: 470px;
+    overflow: hidden;
+}
+
+.card-img{
+    filter: brightness(.5);
+}
+
+#Botonenviar{
+    background-color: #83AD3F;
+    color: white
+}
