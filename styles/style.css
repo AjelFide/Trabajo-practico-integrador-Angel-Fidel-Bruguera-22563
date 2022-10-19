@@ -26,6 +26,9 @@
 .card-img{
     filter: brightness(.5);
 }
+ span {
+    border-bottom:3px dotted black;
+ }
 
 #Botonenviar{
     background-color: #83AD3F;
