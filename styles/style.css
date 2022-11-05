@@ -29,8 +29,17 @@
  span {
     border-bottom:3px dotted black;
  }
+ #btnBorrar{
+    background: #83AD3F;
+    color: white;
+ }
+
+ #btnResumen{
+    background: #83AD3F;
+    color: white;
+ }
 
 #Botonenviar{
     background-color: #83AD3F;
-    color: white
+    color: white;
 }
