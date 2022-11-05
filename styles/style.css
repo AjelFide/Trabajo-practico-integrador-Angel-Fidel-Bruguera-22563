@@ -26,10 +26,14 @@
 .card-img{
     filter: brightness(.5);
 }
- span {
+ #punteado {
     border-bottom:3px dotted black;
  }
- #btnBorrar{
+#Botonenviar{
+    background-color: #83AD3F;
+    color: white;
+}
+#btnBorrar{
     background: #83AD3F;
     color: white;
  }
@@ -38,8 +42,3 @@
     background: #83AD3F;
     color: white;
  }
-
-#Botonenviar{
-    background-color: #83AD3F;
-    color: white;
-}
